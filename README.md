@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project – End-to-End Pipeline
+# 📊 Customer Shopping Behavior
 
 ## 📌 Overview
 
@@ -9,10 +9,9 @@ This project demonstrates a complete **data analytics workflow**, starting from 
 ## 🛠️ Tech Stack
 
 * **Programming:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Database:** PostgreSQL / MySQL / SQL Server
+* **Libraries:** Pandas, NumPy
+* **Database:** MySQL 
 * **Visualization:** Power BI
-* **Reporting & Presentation:** Gamma
 
 ---
 
@@ -47,20 +46,6 @@ This project demonstrates a complete **data analytics workflow**, starting from 
   * Category-wise performance breakdown
 * Enabled filters and slicers for dynamic exploration
 
-### 5. Reporting
-
-* Summarized key insights and business recommendations
-* Created a presentation using Gamma for storytelling
-
----
-
-## 📊 Dashboard Highlights
-
-* Revenue / Sales Trends over time
-* Top-performing categories/products
-* Customer or regional insights
-* Key KPIs (growth, averages, comparisons)
-
 ---
 
 ## 📈 Key Results
@@ -70,55 +55,6 @@ This project demonstrates a complete **data analytics workflow**, starting from 
 * Provided data-driven recommendations for decision-making
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-repo-link>
-cd <project-folder>
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run Python Scripts
-
-```bash
-python data_cleaning.py
-python analysis.py
-```
-
-### 4. Setup Database
-
-* Import dataset into PostgreSQL/MySQL/SQL Server
-* Run SQL scripts from `/sql` folder
-
-### 5. View Dashboard
-
-* Open the Power BI `.pbix` file
-* Refresh data connections if needed
-
----
-
-## 📂 Project Structure
-
-```
-├── data/                # Raw & cleaned datasets
-├── notebooks/           # Jupyter notebooks
-├── scripts/             # Python scripts
-├── sql/                 # SQL queries
-├── dashboard/           # Power BI file
-├── reports/             # Final presentation/report
-└── README.md
-```
-
----
-
 ## 💡 Future Improvements
 
 * Automate pipeline using scheduling tools
@@ -129,11 +65,9 @@ python analysis.py
 
 ## 👤 Author
 
-**[Your Name]**
+**[Animesh Dwivedi]**
 
-* GitHub: [your-profile-link]
-* LinkedIn: [your-linkedin-link]
+* GitHub: [https://www.github.com/Ani0402]
+* LinkedIn: [https://www.linkedin.com/in/animesh-dwivedi]
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
